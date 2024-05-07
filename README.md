@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# ByteBabble-Serverless-Web-Chat-Application-Frontend
+A real time serverless web chat application deployed to AWS with serverless framework
+
+This project is a fully functional web chat application deployed on AWS (Amazon Web Services). It allows users to engage in real-time conversations, share messages, and collaborate seamlessly over the internet. Built with modern web technologies, this application offers a responsive and intuitive user interface, making communication easy and accessible from any device with internet connectivity.
+
+Frontend: Tailwind CSS, HTML, CSS, JavaScript, React.js
+
+Deployment: AWS (Amazon Web Services) - Amazon API Gateway, AWS CloudFormation, S3, AWS Lambda, Amazon DynamoDB
+>>>>>>> 5a1ed777b3034a90af9f71c68b387fe1ad72b9a9
